@@ -340,7 +340,7 @@ const Index = () => {
         </div>
       </section>
       
-      {/* CTA */}
+      {/* Apresenttação dos Serviços */}}
       <section className="py-14 bg-amber-700 text-white text-center">
         <div className="container mx-auto px-4">
           <h2 className="text-2xl md:text-3xl font-bold mb-2">Precisa de Ajuda Jurídica?</h2>
